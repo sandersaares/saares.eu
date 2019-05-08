@@ -1,11 +1,16 @@
 ---
-title: "About Sander"
+title: "About Me"
 date: 2019-05-07T10:18:52+08:00
 ---
 
-![](/pictures/about/profile.jpg)
+![](profile.jpg)
 
-I strive to make machines serve mankind. There is much untapped potential in the technology base already available to us that can transform humanity if utilized in the right way at the right time.
+<ul class="flat">
+    <a href="mailto:sander@saares.eu" title="Email"><i data-feather="mail"></i></a>
+    <a href="https://github.com/sandersaares" title="GitHub"><i data-feather="github"></i></a>
+    <a href="https://twitter.com/sandersaares" title="Twitter"><i data-feather="twitter"></i></a>
+    <a href="https://www.linkedin.com/in/sandersaares/" title="LinkedIn"><i data-feather="linkedin"></i></a>
+</ul>
 
 My day job is at [Axinom](https://axinom.com), a company that creates solutions for in-flight entertainment and online streaming. In my role as advisor I deal with a wide range of topics including:
 
