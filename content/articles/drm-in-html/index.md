@@ -13,10 +13,7 @@ Despite this, EME is a step up in interoperability and has incorporated basic pr
 
 Studios that license premium content require video solutions to use Digital Rights Management systems (DRM) that enforce strict control over what users can do with the content. Premium content is delivered to users in encrypted form, ensuring that even if the data is intercepted and copied, it cannot be played back without the required key. Each player must cooperate with a DRM system — a component of the user’s device — that is tasked with obtaining and protecting this key and ensuring that the decrypted content can only be displayed for immediate viewing and not copied.
 
-<figure>
-    <img src="EME - API.png" />
-    <figcaption>EME defines an API and various data structures, often used merely to wrap DRM system specific data.</figcaption>
-</figure>
+{{< figure src="EME - API.png" title="EME defines an API and various data structures, often used merely to wrap DRM system specific data." >}}
 
 [EME is an API that defines standard functions and data structures](https://www.w3.org/TR/encrypted-media/) that can be called form JavaScript in order to activate the DRM system used by the browser and to supply it with data. It does not standardize how DRM systems protect content or keys, or even how they obtain those keys and allow them to be used. Most of the actual messaging involved remains DRM system specific and is simply wrapped by EME data structures. EME provides an on-switch and a feedback mechanism to allow the DRM system to inform the web page about the presence or absence of keys.
 DRM in the world before EME

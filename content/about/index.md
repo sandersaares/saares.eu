@@ -12,7 +12,7 @@ date: 2019-05-07T10:18:52+08:00
     <a href="https://www.linkedin.com/in/sandersaares/" title="LinkedIn"><i data-feather="linkedin"></i></a>
 </ul>
 
-My day job is at [Axinom](https://axinom.com), a company that creates solutions for in-flight entertainment and online streaming. In my role as advisor I deal with a wide range of topics including:
+Since 2008 I work at [Axinom](https://axinom.com), a company that creates solutions for in-flight entertainment and online streaming. In my role as advisor I deal with a wide range of topics including:
 
 * technical product design and information architecture
 * designing modern adaptive streaming workflows, from encoding and packaging to delivery and player integration
