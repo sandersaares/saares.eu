@@ -28,4 +28,4 @@ On my free time, I enjoy consuming books and practice cycling and archery. I bel
 
 This website is a collection of thoughts that I feel like sharing, thoughts that may prove useful to someone. The set of topics is fairly arbitrary, though I try to curate it a bit for easy readability.
 
-5456283F5E1CFF2A0F6D
+BD3D282C75
